@@ -1,8 +1,8 @@
 # TADVDelphi
 
-O tipo record em pascal pode conter em sua estrutura functions e procedures desde o Delphi 2006, 
-e o TADVDelphi é um Framework que cria um tipo de dado mais avançado usando record com procedures e functions para 
-encapsular as tarefas mais comumns com os tipos de dados primitivo como: string, Integer, Double e DateTime.
+O tipo record em pascal pode conter em sua estrutura functions e procedures desde o Delphi 2006 .
+O TADVDelphi é um Framework que cria um tipo de dado mais avançado usando record com procedures e functions para 
+encapsular as tarefas mais comuns com os tipos de dados primitivo como: string, Integer, Double e DateTime.
 
 
 Como Usar :+1:
